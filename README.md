@@ -6,11 +6,12 @@ Learning
 >-niñita
 
 ## En este curso vemos de todo:En este curso vemos de todo:
-*Todos los comandos de git
-*El flujo de trabajo en Github
-*El verdadero amor por las buenas practicas
-*Trucos muy locos del profesor
-*Las personalidades multuples de Freddy
+* Todos los comandos de git
+* El flujo de trabajo en Github
+* El verdadero amor por las buenas practicas
+* Trucos muy locos del profesor
+* Las personalidades multuples de Freddy
+* creado por el increible Platzi team
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado
 para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve a ver el 
