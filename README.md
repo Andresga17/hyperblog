@@ -11,13 +11,9 @@ Learning
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multuples de Freddy
-<<<<<<< HEAD
 * creado por el increible Platzi team
-=======
-* Creado por el increible Platzi team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
->>>>>>> readme-mejorado
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado
 para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve a ver el 
